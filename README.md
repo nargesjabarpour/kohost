@@ -1,1 +1,1 @@
-# kohost
+# kohost-site
